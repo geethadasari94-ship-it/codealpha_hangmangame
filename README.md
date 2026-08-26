@@ -1,10 +1,10 @@
 # 🎮 Hangman Game
 
-A simple and interactive **Hangman Game** built using **Python and Streamlit**.
+A simple and interactive **Hangman Game** built using **Python and Streamlit
 
-## 🌐 Live Demo
+## 🚀 Live Demo 
 
-👉 **[Play Hangman Game Live]http://localhost:8501
+[🎮 Play Hangman Game](https://codealphahangmangame-8vdibvogjlgagd4uq5prvu.streamlit.app)
 
 > Replace `YOUR_LIVE_DEMO_LINK` with your deployed Streamlit app URL.
 
